@@ -1,4 +1,6 @@
 # hi-vote
+Frontend of application of Hi-Vote
+
 
 ## Project setup
 ```
